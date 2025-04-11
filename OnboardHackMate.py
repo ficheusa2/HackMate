@@ -8,8 +8,8 @@ from datetime import datetime
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
 # Token del bot (reemplaza con el real)
-TOKEN = "7236305629:AAH1-B0zC0UH7eIguCunHj7gULk2rEqq9dE"
-BOT_NAME = "SomosPymesAbr25"
+TOKEN = "xxxxx" 
+BOT_NAME = "OnBoardHack"
 
 # Estados de la conversación
 NAME, LINKEDIN = range(2)
